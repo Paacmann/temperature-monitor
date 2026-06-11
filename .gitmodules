@@ -1,0 +1,3 @@
+[submodule "portable-display-driver"]
+	path = portable-display-driver
+	url = https://github.com/Paacmann/portable-display-driver.git
